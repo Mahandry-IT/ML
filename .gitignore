@@ -1,0 +1,10 @@
+# Intellij
+.idea/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
