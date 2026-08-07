@@ -4,3 +4,7 @@ matplotlib
 seaborn
 scipy
 scikit-learn
+statsmodels
+streamlit 
+folium 
+streamlit-folium
